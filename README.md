@@ -3,7 +3,7 @@
 
 ![banner](https://user-images.githubusercontent.com/6326660/103442638-e4fc7180-4c0c-11eb-9218-ec589075f8ae.png)
 
-I am a full-stack software engineer with a passion for JavaScript, React, Ruby, and Ruby on Rails. When I am not programming I enjoy reading comic books and listening to music.
+I am a full-stack software developer with a passion for JavaScript, React, Ruby, and Ruby on Rails. When I am not programming I enjoy reading comic books and listening to music.
 
 ## &#128221; Projects
 
@@ -38,10 +38,10 @@ I am a full-stack software engineer with a passion for JavaScript, React, Ruby, 
 
 ## &#128200; Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazhen&exclude_repo=aA-homework,aA-classwork,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazhen)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jazhen&show_icons=true)
 
 ## &#9993; Contact
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jazhen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jazhen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](jazhen.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='40'>](https://angel.co/u/jazhen)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jazhen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jazhen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='40'>](https://angel.co/u/jazhen)  [<img src='https://git.io/JL7Hs' alt='website' height='40'>](https://jazhen.github.io/)
