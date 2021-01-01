@@ -1,9 +1,9 @@
 ## Hey there 👋, my name is Jason Zhen.
-### I'm a fullstack software engineer from San Francisco. Currently seeking my next venture.
+### I'm a full-stack software engineer from San Francisco.
 
-![I'm a fullstack software engineer from San Francisco.](https://user-images.githubusercontent.com/6326660/102254203-342c6d80-3ebd-11eb-81b7-a40ef0d44cdc.jpg)
+![banner](https://user-images.githubusercontent.com/6326660/103442638-e4fc7180-4c0c-11eb-9218-ec589075f8ae.png)
 
-I am a full stack software engineer with a passion for JavaScript, React, Ruby, and Ruby on Rails. When I am not programming, I enjoy reading comic books and working out.
+I am a full-stack software engineer with a passion for JavaScript, React, Ruby, and Ruby on Rails. When I am not programming I enjoy reading comic books and listening to music.
 
 ## &#128221; Projects
 
@@ -29,13 +29,11 @@ I am a full stack software engineer with a passion for JavaScript, React, Ruby, 
 ![Heroku](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 ![Webpack](https://img.shields.io/badge/-Webpack-informational?style=flat&logo=Webpack&logoColor=black&color=8DD6F9)
 
-
-
 ## &#128587; About me
 
 - 🌱 I’m currently studying data structures and algorithms
 - 🤔 I’m looking for help with improving my JavaScript fundamentals
-- 💬 Ask me about anything!
+- 💬 Ask me about my projects!
 - 📫 How to reach me: jasonzhen.mail@gmail.com
 
 ## &#128200; Github Stats
